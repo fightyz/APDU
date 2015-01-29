@@ -1,0 +1,6 @@
+*.o
+*.out
+*.swp
+*.tgz
+*.txt
+.DS_Store
